@@ -29,7 +29,8 @@
    4. Choose **Let me pick from a list of available drivers on my computer** ![](images/image7.png)
    5. Choose **USB Audio Device Version 6.1.7601.23403 \[3/25/2016\]** ![](images/image8.png)
    6. If there are no issues, such window will appear ![](images/image9.png)
-4. Congratulations, your keytar is back to life!
+4. Congratulations, your keytar is back to life! 
+**Note: you will need to use Safe mode for drivers to work because Windows doesn't load unsigned drivers by default, or you can find info on how to sign them yourself**
 
 Now you can check that your keytar is sending MIDI messages to PC (using [this page](https://www.onlinemusictools.com/webmiditest) for example)
 ![](images/test.png)
