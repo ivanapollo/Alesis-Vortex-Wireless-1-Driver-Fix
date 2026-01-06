@@ -1,6 +1,8 @@
-# Alesis-Vortex-Wireless-1-Driver-Fix
-
 **DISCLAIMER: I am by no means an expert at the inner buildings of Windows, I am just a fellow user who bought Alesis Vortex Wireless 1 secondhandely, tried to make it work on Windows 10/11 and had a success after a while, so I can't make sure that it will work on future versions of Windows.**
+
+- [Problem I am solving](#problem-i-am-solving)
+- [How to make it work on Windows 10/11 (and maybe 8, but I haven't checked that)](#how-to-make-it-work-on-windows-1011-and-maybe-8-but-i-havent-checked-that)
+
 
 # Problem I am solving
 ![](images/image1.png)
@@ -28,3 +30,6 @@
    5. Choose **USB Audio Device Version 6.1.7601.23403 \[3/25/2016\]** ![](images/image8.png)
    6. If there are no issues, such window will appear ![](images/image9.png)
 4. Congratulations, your keytar is back to life!
+
+Now you can check that your keytar is sending MIDI messages to PC (using [this page](https://www.onlinemusictools.com/webmiditest) for example)
+![](images/test.png)
